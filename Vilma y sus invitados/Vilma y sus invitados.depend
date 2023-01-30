@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1605848907 source:c:\users\user\documents\c stuff\vilma y sus invitados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<sys/stat.h>
+	<string.h>
+

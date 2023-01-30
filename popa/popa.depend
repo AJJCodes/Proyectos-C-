@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604899339 source:c:\users\user\documents\c stuff\popa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

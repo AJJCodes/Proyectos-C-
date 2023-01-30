@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601174809 source:c:\users\user\documents\c stuff\que\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
