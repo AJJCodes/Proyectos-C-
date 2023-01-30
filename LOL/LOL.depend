@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1603589275 source:c:\users\user\documents\c stuff\lol\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+

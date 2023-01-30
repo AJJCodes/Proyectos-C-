@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1601181532 source:c:\users\user\documents\c stuff\corte evaluativo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

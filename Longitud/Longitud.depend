@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603068879 source:c:\users\user\documents\c stuff\longitud\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

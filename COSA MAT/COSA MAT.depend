@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599604124 source:c:\users\user\documents\c stuff\cosa mat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
